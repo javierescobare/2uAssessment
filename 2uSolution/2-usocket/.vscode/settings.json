@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bff5a6ef-e2f8-49b5-aad4-1a157a75730e/resourceGroups/Prueba/providers/Microsoft.Web/sites/2usocket",
+    "appService.deploySubpath": "."
+}
