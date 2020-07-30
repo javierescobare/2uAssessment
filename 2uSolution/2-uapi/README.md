@@ -12,7 +12,7 @@ npm install
 
 ## Usage 🚀
 
-In order to run the app, you first need to add a .env file in the root of the project and fill up the fields with your MongoDB connection details using this format:
+In order to run the app, you first need to add a .env file at the root of the project and fill up the fields with your MongoDB connection details using this format:
 
 ```
 MONGO_URL = ''

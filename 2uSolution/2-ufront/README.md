@@ -1,3 +1,32 @@
+## 2ufront
+
+React.js app for User Story 2.
+
+## Installation 🔧
+
+Install project dependencies using:
+
+```bash
+npm install
+```
+
+## Usage 🚀
+
+In order to run the app, you first need to add a .env file at the root of the project and fill up the following fields with the corresponding endpoints for the desired API and Web socket:
+
+```
+REACT_APP_SOCKET_URL = "https://2usocket.azurewebsites.net"
+REACT_APP_API_URL = "https://2uapi.azurewebsites.net"
+```
+
+Then, you can run:
+
+```bash
+npm start
+```
+
+## Credits
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
